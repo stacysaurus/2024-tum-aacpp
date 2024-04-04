@@ -1,2 +1,2 @@
-# 2024-tum-aacpp
-Praktikum - Advanced Algorithms in Competitive Programming Problems - Summer Semester 2024
+# Praktikum - Advanced Algorithms in Competitive Programming Problems - Summer Semester 2024
+Written in C++20.
